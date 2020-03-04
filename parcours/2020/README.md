@@ -13,22 +13,22 @@ RLE Sa l | 39 | 6 | 2 | 6 | 3 | 7 | 405
 
 ## Line
 Line Saturday 1
-![](./line_saturday_1.png)
+![](./line_saturday_1.PNG)
 
 Line Saturday 2
-![](./line_saturday_2.png)
+![](./line_saturday_2.PNG)
 
 Line Sunday
-![](./line_sunday.png)
+![](./line_sunday.PNG)
 
 ## Line Entry
 Line Entry Saturday 1 (right)
 ![](./line_entry_saturday_1_right.png)
 
 Line Entry Saturday 2 (right)
-![](./line_entry_saturday_2_right.png)
+![](./line_entry_saturday_2_right.PNG)
 
 Line Entry Sunday (left)
-![](./line_entry_sunday_left.png)
+![](./line_entry_sunday_left.PNG)
 Note: We moved the evacuation zone one tile south, and replaced tile 38 with a right angle.
 This removed also tile 39 and thus reduced the maximum score without the evacuation zone to 405 points.
