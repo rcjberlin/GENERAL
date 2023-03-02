@@ -1,22 +1,30 @@
 <table border="0"><tr>
-<td><img src="robocup.png" width="120" /></td>
-<td>Rescue Line<br><b>Merkzettel für Schiedsrichter<b></td>
+<td><img src="robocup.png" width="100" /></td>
+<td>Rescue Line<br><b>Merkzettel für Schiedsrichter (2023)<b></td>
 </tr></table>
 
-**Vor dem Lauf / Einweisung zu Beginn**:
-* Hindernis etc. wieder korrekt positionieren
-* hoher oder flacher Evakuierungspunkt?
-* 8 Minuten Zeit (Lauf inkl. Putzen, Kalibrieren, Checkpoints)
+* Hindernis, Checkpoints, Wippen, Rescue Kit, etc. wieder korrekt positionieren
+* Line: L1/L2 Evakuierungspunkt? L1/L2 Rescue Kit?
+* 8 Minuten Zeit (Lauf inkl. Putzen, Kalibrieren)
 * Kalibieren (Roboter darf sich nicht von selbst bewegen)
-* Checkpoints setzen (nicht auf Kacheln mit Punkten; gilt in alle Richtungen; können während des Laufs bewegt werden)
-- Eingriff bei Lack of Progress oder Gefahr
-- Lack of Progress kann selbst verkündet werden, taktisches LoP erlaubt
+- Eingriff bei Lack of Progress (LoP) oder Gefahr
+- LoP kann selbst verkündet werden, taktisches LoP erlaubt
 - abgefallene Teile bleiben liegen, verschobene Hindernisse bleiben stehen
+- Checkpoints gelten in alle Richtungen; Checkpoints und Wippen können während des Laufs bewegt werden
 - Neustart erlaubt, kein Programmwechsel
 
 <p align="center"><img src="lop.png" style="width: 80%;" /></p>
 
-* Anmerkungen/Beschwerden vermerken
+* Anmerkungen/Beschwerden vermerken und mit League Chairs klären
 * Ok/Unterschrift &rarr; Team-Captain mit Schirizettel einverstanden
 
 Ab 5min Verspätung: Stoppuhr starten
+
+<!--
+PDF export via VS Code extension yzane.markdown-pdf
+Ctrl+Shift+P -> Markdown PDF Export
+Settings:
+- markdown-pdf.displayHeaderFooter false
+- format A5
+- margins: top/bottom 1 cm, left/right 0.5 cm
+-->

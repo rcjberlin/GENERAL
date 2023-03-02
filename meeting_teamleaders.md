@@ -5,9 +5,8 @@ Grundlegender Ablauf:
 * voraussichtlich keine größeren Verspätungen, daher bitte pünktlich zu angegebenen Zeiten da sein; potenzielle Verspätung wird angezeigt
 * die beiden besten der drei Läufe werden gewertet (= ein Streichlauf)
 * Sortierung nach höchster Punktzahl, bei Gleichstand nach geringerer Zeit
-* laut Newsletter vom 22.01. qualifizieren sich 7 (Line) bzw. 4 Teams (Line Entry) für die GermanOpen in Magdeburg
-* Ergebnisse werden live angezeigt ([rcjberlin.github.io](https://rcjberlin.github.io/))
-* Showläufe am Sonntag
+* laut [offizieller Webseite](https://robocupjunior.de/german-open/) qualifizieren sich 6 (Line) bzw. 2 Teams (Line Entry) für die German Open 2023 in Kassel
+<!-- * Ergebnisse werden live angezeigt ([rcjberlin.github.io](https://rcjberlin.github.io/)) -->
 
 - bei technischen Problemen mit dem Roboter ist unter gewissen Umständen eine Verschiebung möglich (d. h. Tauschen mit anderem Team, das sich freiwillig zu Tausch bereit erklärt)
 - in jedem Fall im Voraus bei League Chairs Bescheid geben
@@ -15,12 +14,11 @@ Grundlegender Ablauf:
 * League Chairs sind Ansprechpartner für jegliche Fragen, die Schiedsrichter sind i. d. R. mit den Läufen beschäftigt und sollten möglichst nicht gestört werden
 
 Lauf:
-* vorher: [kalibrieren], [putzen], Checkpoints setzen, Line: Evakuierungspunkt (flach/hoch) wählen
+* vorher: [kalibrieren], [putzen], Line: Evakuierungspunkt (flach/hoch) wählen, Rescue Kit
 * Checkpoints:
-  * nicht auf Kacheln, die Punkte bringen (Kreuzungen, Hindernis, Lücken, Speed Bumps, Rampe)
   * zählen ggf. mehrfach (alle Richtungen)
   * können beiseite genommen werden
-  * letzte Kachel ist kein Checkpoint; für maximale Punktzahl muss entsprechend ein Checkpoint gesetzt werden
+  * letzte Kachel ist kein Checkpoint (keine Punkte für Kacheln nach letztem Checkpoint)
 
 - Roboter muss im Notall selbst gefangen werden
 - sonst nur bei Lack of Progress (LoP) eingreifen
@@ -42,8 +40,7 @@ Lauf:
 - bei LoP immer zurück zum letzten Checkpoint (nicht zwingend am Silberstreifen)
 - Line:
   - Punktzahl in Abhängigkeit von Schwierigkeit des Evakuierungspunkts
-  - Reihenfolge von lebenden und toten Opfern sollte beachtet werden
-  - LoPs nach letztem Checkpoint (nicht nur in der Evakuierungszone) führen zu Punktabzug (5 Punkte je Opfer)
+  - LoPs nach letztem Checkpoint (nicht nur in der Evakuierungszone) führen zu Punktabzug (Multiplikator)
 * Lauf kann jederzeit abgebrochen/beendet werden (deutlich und unmissverständlich an Schiedsrichter kommunizieren)
 
 - nach Lauf gemeinsam mit Schiedsrichter durchgehen
