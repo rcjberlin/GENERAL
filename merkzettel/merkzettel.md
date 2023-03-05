@@ -6,7 +6,7 @@
 * Hindernis, Checkpoints, Wippen, Rescue Kit, etc. wieder korrekt positionieren
 * Line: L1/L2 Evakuierungspunkt? L1/L2 Rescue Kit?
 * 8 Minuten Zeit (Lauf inkl. Putzen, Kalibrieren)
-* Kalibieren (Roboter darf sich nicht von selbst bewegen)
+* Kalibrieren (Roboter darf sich nicht von selbst bewegen)
 - Eingriff bei Lack of Progress (LoP) oder Gefahr
 - LoP kann selbst verkündet werden, taktisches LoP erlaubt
 - abgefallene Teile bleiben liegen, verschobene Hindernisse bleiben stehen
