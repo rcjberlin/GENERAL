@@ -3,10 +3,10 @@
 Grundlegender Ablauf:
 * jedes Team hat drei Läufe á 8 Minuten
 * voraussichtlich keine größeren Verspätungen, daher bitte pünktlich zu angegebenen Zeiten da sein; potenzielle Verspätung wird angezeigt
-* die beiden besten der drei Läufe werden gewertet (= ein Streichlauf)
+* die drei besten der vier Läufe werden gewertet (= ein Streichlauf)
 * Sortierung nach höchster Punktzahl, bei Gleichstand nach geringerer Zeit
-* laut [offizieller Webseite](https://junior.robocup.de/germanopen/) qualifizieren sich 7 (Line) bzw. 4 Teams (Line Entry) für die German Open 2024 in Kassel
-<!-- * Ergebnisse werden live angezeigt ([rcjberlin.github.io](https://rcjberlin.github.io/)) -->
+* laut [offizieller Webseite](https://junior.robocup.de/germanopen/) qualifizieren sich 4 (Line) bzw. 3 Teams (Line Entry) für die German Open 2025 in Nürnberg
+* Live-Ergebnisse am Samstag: <https://portal.robocup.de/rescue/scoring/uebersicht/Berlin>
 
 - bei technischen Problemen mit dem Roboter ist unter gewissen Umständen eine Verschiebung möglich (d. h. Tauschen mit anderem Team, das sich freiwillig zu Tausch bereit erklärt)
 - in jedem Fall im Voraus bei League Chairs Bescheid geben
@@ -18,7 +18,7 @@ Lauf:
 * Checkpoints:
   * zählen ggf. mehrfach (alle Richtungen)
   * können beiseite genommen werden
-  * letzte Kachel ist kein Checkpoint (keine Punkte für Kacheln nach letztem Checkpoint)
+  * Line Entry: letzte Kachel ist kein Checkpoint (keine Punkte für Kacheln nach letztem Checkpoint)
 
 - Roboter muss im Notall selbst gefangen werden
 - sonst nur bei Lack of Progress (LoP) eingreifen
@@ -27,20 +27,18 @@ Lauf:
 - bis dahin erzielte Sonderpunkte bleiben natürlich erhalten
 - Roboter muss auf jeder Kachel der Linie folgen (sonst LoP)
 
-* Hindernis zählt als geschafft, sobald Linie (auf nächster Kachel) wiedergefunden (Wegschieben daher ok)
+* Sonderelemente zählen sobald nächste Kachel erreicht (Lücke, Kreuzung, Hindernis, Speed Bumps, Rampe)
+* Hindernis wegschieben daher ok
 * Hindernis darf nicht durch Teammitglieder bewegt (zurückgestellt o.ä.) werden!
-* Kreuzung: korrekt abbiegen = geschafft (laut Regelwerk: erst wenn folgende Kachel erreicht wurde); falsch abgebogen = LoP
-* Lücke zählt, sobald Linie wiedergefunden und Kachel dahinter erreicht (Achtung: Doppellücke zählt nur einfach (als eine Lückenkachel))
-* Rampe zählt, sobald Linie auf Kachel hinter Rampe wiedergefunden
-* Speed Bump: auf Linie und nächste Kachel erreicht (Achtung: zählen nur einfach pro Kachel)
+* Kreuzung: falsch abgebogen = LoP
+* Doppellücke zählt nur einfach (als eine Lückenkachel); ebenso mehrere Speed Bumps als eine Bumper-Kachel
 - Position des Evakuierungspunktes kann neu ausgewürfelt werden
 - sobald Opfer erfolgreich gerettet, kann Schiedsrichter diese entfernen, damit genügend Platz für weitere ist
 - Opfer, die rausrollen, bleiben draußen
 - bei LoP werden bereits aufgenommene Opfer in etwa dort abgelegt, wo sich der Roboter befand
 - bei LoP immer zurück zum letzten Checkpoint (nicht zwingend am Silberstreifen)
-- Line:
-  - Punktzahl in Abhängigkeit von Schwierigkeit des Evakuierungspunkts
-  - LoPs nach letztem Checkpoint (nicht nur in der Evakuierungszone) führen zu Punktabzug (Multiplikator)
+- Line Entry: nur LoPs im Evakierungsraum führen zu Punktabzug (Multiplikator)
+- Line: LoPs im Abschnitt mit Evakierungsraum führen zu Punktabzug (Multipliaktor; d. h., auch außerhalb)
 * Lauf kann jederzeit abgebrochen/beendet werden (deutlich und unmissverständlich an Schiedsrichter kommunizieren)
 
 - nach Lauf gemeinsam mit Schiedsrichter durchgehen
@@ -50,10 +48,3 @@ Lauf:
 
 * bei regelwidrigen Arenen bitte Bescheid geben, damit dies möglichst vor dem ersten Lauf korrigiert werden kann (danach schwierig)
 * auch allgemein: Hinweise, Ideen, Verbesserungsvorschläge, Feedback offen kommunizieren
-
-Hinweis Line Entry 2024:
-* entgegen der aktuellsten veröffentlichten Line-Entry-Regeln kleinere Änderungen analog zu Rescue Line:
-  * Scoring Elemente zählen erst bei Erreichen der Folgekachel
-  * Lücken und Speed Bumps zählen nur noch einfach pro Kachel
-  * 10 Punkte für Lücke, Speed Bump, Kreuzung, Rampe
-  * 20 Punkte für Hindernis, Wippe
